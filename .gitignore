@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 3626ab4... Delete .gitignore
 # Logs
 logs
 *.log
@@ -103,8 +106,11 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
 =======
 /node_modules
 .env
 Procfile
 >>>>>>> ca16b45... Commit Inicial
+=======
+>>>>>>> parent of 3626ab4... Delete .gitignore
